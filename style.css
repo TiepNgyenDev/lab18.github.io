@@ -1,0 +1,20 @@
+.bg-img1 {
+  background-color: #000;
+  height: 70vh;
+  background-size: cover;
+  background-image: url(https://anhdep123.com/wp-content/uploads/2021/05/mat-trang-dep.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  height: 70vh;
+  background-size: cover;
+  background-image: url(https://toigingiuvedep.vn/wp-content/uploads/2021/07/hinh-nen-mat-trang-lanh-leo-trong-dem.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  height: 70vh;
+  background-size: cover;
+  background-image: url(https://phunugioi.com/wp-content/uploads/2021/11/Hinh-anh-mat-Trang-dep-nhat.jpg);
+}
